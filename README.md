@@ -20,5 +20,4 @@
 - Manage To-Dos - Add tasks in the "Today's TO-DOs" section.
 
 
-Developed with love by bunny
-Inspired by the Pomodoro technique and retro radio designs.
+Inspired by the Pomodoro technique and retro radio designs 🤎
