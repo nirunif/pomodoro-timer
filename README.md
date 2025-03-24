@@ -1,6 +1,6 @@
 # 🎵 Pomopop – A Pomodoro Timer with To-Do List 📻💖
 
-**Pomopop** is a stylish Pomodoro timer with a built-in to-do list, designed with a retro radio aesthetic and a pink-themed UI. Stay focused, manage tasks efficiently, and work in productive intervals with this visually appealing productivity tool!
+A stylish Pomodoro timer with a built-in to-do list, designed with a retro radio aesthetic and a pink-themed UI. Stay focused, manage tasks efficiently, and work in productive intervals with this visually appealing productivity tool!
 
 [🔗 Live Demo](https://nirunif.github.io/pomodoro-timer/)
 
@@ -23,3 +23,4 @@
 
 
 Inspired by the Pomodoro technique and retro radio designs 🤎
+(Projects i make for fun)
